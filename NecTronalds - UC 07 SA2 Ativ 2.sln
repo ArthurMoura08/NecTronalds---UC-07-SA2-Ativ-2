@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NecTronalds - UC 07 SA2 Ativ 2", "NecTronalds - UC 07 SA2 Ativ 2\NecTronalds - UC 07 SA2 Ativ 2.csproj", "{FABD60F7-89D5-47DD-ACE4-A9E56B3CBA1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FABD60F7-89D5-47DD-ACE4-A9E56B3CBA1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FABD60F7-89D5-47DD-ACE4-A9E56B3CBA1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FABD60F7-89D5-47DD-ACE4-A9E56B3CBA1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FABD60F7-89D5-47DD-ACE4-A9E56B3CBA1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {948F052A-B3D1-4198-BD5F-3960B01B64FE}
+	EndGlobalSection
+EndGlobal
